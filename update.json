@@ -1,0 +1,7 @@
+{
+  "versionCode": 26,
+  "versionName": "0.7.8",
+  "apkUrl": "https://github.com/Termitrb/LiveMapUA-Updates/releases/download/v0.7.8/LiveMapUA-0.7.8.apk",
+  "sha256": "c40eb1584f2043c7dead56e5f0658e70e6f2007150b576a5d54dfe8105532a68",
+  "notes": "Перше OTA-оновлення через GitHub Releases. Додано постійне OTA-джерело."
+}
