@@ -1,7 +1,7 @@
 {
-  "versionCode": 35,
-  "versionName": "0.8.7",
-  "apkUrl": "https://github.com/Termitrb/LiveMapUA-Updates/releases/download/v0.8.7/LiveMapUA-0.8.7.apk",
-  "sha256": "c7383babaaa50c3927075df52a375446b5ba80e7357427f4ecdd03b94323721f",
-  "notes": "Покращено географічне розпізнавання, швидкість Telegram і надійність сповіщень."
+  "versionCode": 40,
+  "versionName": "0.9.2",
+  "apkUrl": "https://github.com/Termitrb/LiveMapUA-Updates/releases/download/v0.9.2/LiveMapUA-0.9.2.apk",
+  "sha256": "8251c548a43f1f6c4444793ea8eece0e77682c212a1f172824c890366d174202",
+  "notes": "Моніторинг 24/7: покращено стабільність фонового сервісу. Згортання застосунку та прибирання з останніх не вимикають моніторинг."
 }
