@@ -1,7 +1,7 @@
 {
-  "versionCode": 44,
-  "versionName": "0.9.6",
-  "apkUrl": "https://github.com/Termitrb/LiveMapUA-Updates/releases/download/v0.9.6/LiveMapUA-0.9.6.apk",
-  "sha256": "1b73e769a4d9c6157c6b9a13bd4b0aa7c1d99d36f1a84b6ac02a7e29b4032141",
-  "notes": "Редизайн інтерфейсу LiveMapUA"
+  "versionCode": 48,
+  "versionName": "0.9.8",
+  "apkUrl": "https://github.com/Termitrb/LiveMapUA-Updates/releases/download/v0.9.8/LiveMapUA-0.9.8.apk",
+  "sha256": "d195a20c752cce1eba7923a86f19ad38120141fbaaf210bdb486d2d9d61f71dc",
+  "notes": "Clean Home: очищений головний екран, напівпрозорі кнопки карти, Моя точка та останнє відоме місце, оновлені push, пунктирна історія, нова іконка застосунка."
 }
